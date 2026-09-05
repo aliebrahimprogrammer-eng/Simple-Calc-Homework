@@ -25,7 +25,7 @@ public class Calculator {
     }
 
     public void monthlyReset(){
-       resetCalculator();;
+       resetCalculator();
     }
 
     public static void showTotalCalculations(){
